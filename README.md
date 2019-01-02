@@ -14,11 +14,15 @@ d. Data frames and matrices are two dimensional however the array is multidimens
 Answers: 
 
 1. 3 ways – call () , do.call () & recall ()  
+
 2. True
 3.
 a. False
+
 b. True
+
 c. True
+
 d. True 
 
 
