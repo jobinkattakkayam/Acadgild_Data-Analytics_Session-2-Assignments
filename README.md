@@ -8,6 +8,7 @@ Problem Statement
 2. Is the below statement true?
 
 • The lazy evaluation of a function means, the argument is evaluated only if it is evaluated only if it is used inside the body of the function.
+
 3. Mention true or false for below statements:
 
 a. Insights driven from descriptive analytics is not meaningful.
